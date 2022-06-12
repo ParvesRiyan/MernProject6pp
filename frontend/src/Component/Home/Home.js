@@ -29,10 +29,10 @@ const Home = () => {
                 <Loader />
             ) : (
                 <>
-                    <MetaData title="ECOMMERCE" />
+                    <MetaData title="AestheticWatchIllusion" />
 
                     <div className="banner">
-                        <p>Welcome to our Ecommerce</p>
+                        <p>Welcome to our AestheticWatchIllusion</p>
                         <h1>FIND OUR AMIZING PRODUCT BELLOW</h1>
 
                         <a href="#container">
